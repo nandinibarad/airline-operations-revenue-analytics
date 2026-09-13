@@ -71,10 +71,11 @@ airline-operations-revenue-analytics/
 │   └── 04_analysis_queries.sql
 │
 ├── PowerBI/
-│   └── dashboard.png
+│   └── airline operation & revenue analytics.pbix
 │
 └── screenshots/
-    └── query_results.png
+    └── Airlinewise revenue.png, top 3 routes by revenue.png, busiest airport.png, cancellation rate by airline.png, cancellation revenue impact.png
+
 ```
 
 ## 👩‍💻 Author
