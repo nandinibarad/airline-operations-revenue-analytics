@@ -1,0 +1,2 @@
+CREATE DATABASE airline_operations_revenue_analytics;
+USE airline_operations_revenue_analytics;
